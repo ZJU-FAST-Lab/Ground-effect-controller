@@ -104,7 +104,7 @@ The results of parameter identification in the paper are shown in following tabl
 
 The control algorithm that runs on the onboard computer (to be uploaded).
 
-The  following [figure](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground). Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
+The  following [figure](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
 
 <img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:20%;" />
 
