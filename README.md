@@ -141,11 +141,9 @@ $$**
 t_E = K_P^T T_a^E + K_I^T \sum T_a^E,
 $$**
 
-**$$ **
-
-**T_a^E = \left( {\sum\limits_{i = 1}^4 {{k_T}n{{_i^{des}}^2} - } \sum\limits_{i = 1}^4 {{k_T}{n_i}^2} } \right)/m **
-
-**$$**
+**$$
+T_a^E = \left( {\sum\limits_{i = 1}^4 {{k_T}n{{_i^{des}}^2} - } \sum\limits_{i = 1}^4 {{k_T}{n_i}^2} } \right)/m
+$$**
 
 
 
