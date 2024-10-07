@@ -6,7 +6,7 @@ Paper (to be uploaded)
 
 Video (to be uploaded)
 
-## APM Firmware
+## Firmware for the flight controller 
 
 This firmware is included in a [VMware](https://www.vmware.com/) virtual machine environment.
 
