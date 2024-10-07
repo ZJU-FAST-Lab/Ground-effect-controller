@@ -16,11 +16,11 @@ Password: fastlab@2024
 
 ## CAD: The quadrotor
 
-The  [CAD model](./CAD/quadrotor.step) of the quadrotor in this paper.
+The  [CAD model](./CAD/quadrotor.STEP) of the quadrotor in this paper.
 
 
 
-<img src="./figs/quadrotor.png" alt="Alt text" style="zoom:30%;" />
+<img src="./figs/quadrotor.PNG" alt="Alt text" style="zoom:30%;" />
 
 
 
@@ -28,11 +28,11 @@ The  [CAD model](./CAD/quadrotor.step) of the quadrotor in this paper.
 
 ## CAD: The force measurement platform
 
-The  [force measurement platform](./CAD/platform.step) of the quadrotor in this paper.
+The  [force measurement platform](./CAD/platform.STEP) of the quadrotor in this paper.
 
 
 
-<img src="./figs/platform.png" alt="Alt text" style="zoom:25%;" />
+<img src="./figs/platform.PNG" alt="Alt text" style="zoom:25%;" />
 
 
 
