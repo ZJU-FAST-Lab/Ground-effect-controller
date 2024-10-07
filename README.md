@@ -75,11 +75,11 @@ The  [CAD model](./CAD/platform.step)  of the force measurement platform in this
 
 ### Platform data
 
-For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment:
+For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment. The figure shows the relationship between leveling torque **${{\bf{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
+
+
 
 <img src="./figs/getorque_all_rpmmodel.jpg" alt="Alt text" style="zoom:20%;" />
-
-The figure shows the relationship between leveling torque **${{\bf{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
 
 ## Parameters in the paper
 
