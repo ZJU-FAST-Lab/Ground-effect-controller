@@ -2,10 +2,6 @@
 
 Ground-Effect-Aware Modeling and Control for Multicopters.
 
-Paper (to be uploaded)
-
-Video (to be uploaded)
-
 <img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
 
 ## The quadrotor
@@ -112,11 +108,11 @@ The results of parameter identification in the paper are shown in following tabl
 
 ## Control algorithm
 
-The control algorithm that runs on the onboard computer (to be uploaded).
-
 The  following [figure](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
 
 <img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:20%;" />
+
+The control algorithm that runs on the onboard computer will be uploaded soon.
 
 
 
