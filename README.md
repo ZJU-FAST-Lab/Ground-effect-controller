@@ -16,17 +16,25 @@ Password: fastlab@2024
 
 ## CAD: The quadrotor
 
+```
+[Link text](./CAD/quadrotor.step)
+```
+
+
+
+<img src="./figs/quadrotor.png" alt="Alt text" style="zoom:38%;" />
+
 
 
 ```
-![Alt text](./figs/quadrotor)
+![Alt text](./figs/quadrotor.png)
 ```
 
 
 
 ## CAD: The force measurement platform
 
-![Alt text](./figs/platform)
+<img src="./figs/platform.png" alt="Alt text" style="zoom:38%;" />
 
 
 
