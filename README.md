@@ -2,11 +2,17 @@
 
 Ground-Effect-Aware Modeling and Control for Multicopters.
 
-<img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
+
+
+<p align="center">
+    <img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
+</p>
 
 
 
-<img src="./figs/traj.gif" alt="Alt text" style="zoom:20%;" />
+<p align="center">
+    <img src="./figs/traj.gif" alt="Alt text" style="zoom:20%;" />
+</p>
 
 
 
