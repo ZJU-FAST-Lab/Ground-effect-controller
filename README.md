@@ -5,8 +5,9 @@ Ground-Effect-Aware Modeling and Control for Multicopters.
 
 
 <p align="center">
-    <img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
+    <img src="./figs/header.jpg" alt="Alt text" style="zoom:30%;" />
 </p>
+
 
 ## The quadrotor
 
@@ -26,7 +27,7 @@ The CAD model of  the [quadrotor](./CAD/quadrotor.STEP)  in this paper.
 
 
 
-<img src="./figs/quadrotor.PNG" alt="Alt text" style="zoom:30%;" />
+<img src="./figs/quadrotor.PNG" alt="Alt text" style="zoom:35%;" />
 
 ### BOM list
 
@@ -71,7 +72,7 @@ The CAD model of  the [quadrotor](./CAD/quadrotor.STEP)  in this paper.
 
 The  [CAD model](./CAD/platform.step)  of the force measurement platform in this paper.
 
-<img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
+<img src="./figs/platform.PNG" alt="Alt text" style="zoom:30%;" />
 
 ### Platform data
 
@@ -79,13 +80,13 @@ For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the 
 
 
 
-<img src="./figs/getorque_all_rpmmodel.jpg" alt="Alt text" style="zoom:20%;" />
+<img src="./figs/getorque_all_rpmmodel.jpg" alt="Alt text" style="zoom:35%;" />
 
 ## Motor calibration and rotor speed control
 
 ### Motor model
 
-<img src="./figs/sigle_motor_platform.png" alt="Alt text" style="zoom:3%;" />
+<img src="./figs/sigle_motor_platform.jpg" alt="Alt text" style="zoom:30%;" />
 
 
 
@@ -93,7 +94,7 @@ For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the 
 
 
 
-<img src="./figs/id_single_motor.png" alt="Alt text" style="zoom:3%;" />
+<img src="./figs/id_single_motor.jpg" alt="Alt text" style="zoom:30%;" />
 
 
 
@@ -143,12 +144,12 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
 
 
 <p align="center">
-    <img src="./figs/traj.gif" alt="Alt text" style="zoom:60%;" />
+    <img src="./figs/traj.gif" alt="Alt text" style="zoom:80%;" />
 </p>
 
 
 
-<img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:20%;" />
+<img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:40%;" />
 
 
 
