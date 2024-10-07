@@ -18,9 +18,15 @@ Password: fastlab@2024
 
 
 
+```
+![Alt text](./figs/quadrotor)
+```
+
 
 
 ## CAD: The force measurement platform
+
+![Alt text](./figs/platform)
 
 
 
