@@ -2,11 +2,13 @@
 
 Ground-Effect-Aware Modeling and Control for Multicopters.
 
-<img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
-
 Paper (to be uploaded)
 
 Video (to be uploaded)
+
+<img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
+
+
 
 ## Firmware for the flight controller 
 
