@@ -2,6 +2,8 @@
 
 Ground-Effect-Aware Modeling and Control for Multicopters.
 
+<img src="./figs/header.jpg" alt="Alt text" style="zoom:30%;" />
+
 Paper (to be uploaded)
 
 Video (to be uploaded)
@@ -9,6 +11,8 @@ Video (to be uploaded)
 ## Firmware for the flight controller 
 
 This firmware is included in a [VMware](https://www.vmware.com/) virtual machine environment.
+
+
 
 Downlink:  [Fireware with virtual environment](http://zjufast.tpddns.cn:9110/share.cgi?ssid=cfde8ecbb0b8432fb59c241b98ab59a9)
 
