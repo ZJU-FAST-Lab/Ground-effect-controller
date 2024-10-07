@@ -101,7 +101,7 @@ $$
 
 where:
 
-- $k_T$ is the thrust coefficient,
+- **$k_T$** is the thrust coefficient,
 - **$k_I$** is the torque coefficient,
 - **$J_R$** is the moment of inertia of the rotor,
 - **$i$** is the rotor number.
@@ -121,23 +121,14 @@ When the flight controller receives a throttle control signal (**${t_c} \in [0,1
 $$
 n_{esc}(t_c) = c_2 t_c^2 + c_1 t_c + c_0.
 $$
-where
+We collect rotor speed and throttle data on the single-motor platform and calibrate the model. The data is illustrated in the following [***figure***](./figs/id_single_motor.pdf).
 
-${k_T}$ is the thrust coefficient,
+- (a) The relationship between rotor speed $n$ and throttle $t_c$. 
+- (b) The time series of motor speed, with the blue line representing the speed predicted using the throttle model.
 
-${k_I}$ is the torque coefficient,
-
-${J_R}$ is the moment of inertia of the rotor
-
-and ${i}$ is the rotor number.
-
-
-
-
+It can be seen that the data fit the model very well.
 
 <img src="./figs/id_single_motor.jpg" alt="Alt text" style="zoom:30%;" />
-
-
 
 ### Rotor speed control
 
