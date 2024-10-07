@@ -77,7 +77,7 @@ The  [CAD model](./CAD/platform.step)  of the force measurement platform in this
 
 | **Symbol**   | **Value**                                                    | **Name**                             | **Method**              |
 | ------------ | ------------------------------------------------------------ | ------------------------------------ | ----------------------- |
-| **k_T**      | $4.0083 \times 10^{-8} \, \text{N/rpm}^2$                    | **Thrust coefficient**               | Single-rotor platform   |
+| **$k_T$**    | $4.0083 \times 10^{-8} \, \text{N/rpm}^2$                    | **Thrust coefficient**               | Single-rotor platform   |
 |              | $3.7840 \times 10^{-8} \, \text{N/rpm}^2$                    |                                      | Quadrotor platform      |
 |              | $4.2958 \times 10^{-8} \, \text{N/rpm}^2$                    |                                      | Real flight by hovering |
 | **$k_{TX}$** | $4.678 \times 10^{-8} \, \text{N/rpm}^2$                     | Torque by thrust coefficient (roll)  | Quadrotor platform      |
@@ -103,6 +103,8 @@ The  [CAD model](./CAD/platform.step)  of the force measurement platform in this
 ## Control algorithm
 
 The control algorithm that runs on the onboard computer (to be uploaded).
+
+<img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:20%;" />
 
 
 
