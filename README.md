@@ -115,14 +115,16 @@ where:
 
 ### Throttol model of the flight controller
 
-The rotor speeds are controlled through the throttle input (**$t_i^{des} \in \left[ {0,1} \right]$ **), and the rotational speeds are fed back through \emph{BDhot}. 
-When the flight controller receives a throttle control signal (**${t_c} \in [0,1]$ **), the rotor speed will be maintained at a roughly determined value. The relationship between the rotor speed and the throttle, after eliminating the influence of battery voltage, is usually a quadratic function:
+The rotor speeds are controlled through the throttle input (**$t_i^{des} \in \left[ {0,1} \right]$**), and the rotational speeds are fed back through \emph{BDhot}. 
+When the flight controller receives a throttle control signal (**${t_c} \in [0,1]$**), the rotor speed will be maintained at a roughly determined value. The relationship between the rotor speed and the throttle, after eliminating the influence of battery voltage, is usually a quadratic function:
 
-**$$
 
- {n_{esc}}\left( {{t_c}} \right) = {c_2}{t_c}^2 + {c_1}{t_c} + {c_0}.
 
-$$**
+
+
+
+
+
 
 
 
