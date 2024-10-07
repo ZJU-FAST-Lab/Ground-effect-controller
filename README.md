@@ -133,9 +133,18 @@ The rotor speeds require closed-loop control; however, we do not implement this 
 
 **$$
 t_i^{des} = t_i^{ref} + t_E,
+$$**
+
+**$$
 t_i^{ref} = n_{esc}^{ - 1}(n_i), 
+$$**
+
+**$$
 t_E = K_P^T T_a^E + K_I^T \sum T_a^E,
-T_a^E = \left( \sum_{i = 1}^4 {k_T} n_{i^{des}}^2 - \sum_{i = 1}^4 {k_T} n_i^2 \right) / m.
+$$**
+
+**$$
+{i = 1}^4 {k_T} n_{i^{des}}^2 - \sum_{i = 1}^4 {k_T} n_i^2 \right) / m.
 $$**
 
 ## Parameters in the paper
