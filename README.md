@@ -67,19 +67,19 @@ The CAD model of  the [quadrotor](./CAD/quadrotor.STEP)  in this paper.
 
 ## The force measurement platform
 
+### CAD model
+
 The  [CAD model](./CAD/platform.step)  of the force measurement platform in this paper.
 
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
+
+### Platform data
 
 For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment:
 
 <img src="./figs/getorque_all_rpmmodel.jpg" alt="Alt text" style="zoom:20%;" />
 
-
-
-
-
-  
+The figure shows the relationship between leveling torque **${{\bm{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
 
 ## Parameters in the paper
 
