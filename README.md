@@ -8,9 +8,9 @@ Video (to be uploaded)
 
 <img src="./figs/header.jpg" alt="Alt text" style="zoom:20%;" />
 
+## The quadrotor
 
-
-## Firmware for the flight controller 
+### Firmware for the flight controller 
 
 This firmware is included in a [VMware](https://www.vmware.com/) virtual machine environment.
 
@@ -19,8 +19,6 @@ Downlink:  [Fireware with virtual environment](http://zjufast.tpddns.cn:9110/sha
 Downlink:  [Fireware only](http://zjufast.tpddns.cn:9110/share.cgi?ssid=d6dd0e1a97cf43f7a9f5feb82fca04d5)
 
 Password: fastlab@2024
-
-## The quadrotor
 
 ### CAD model
 
@@ -74,6 +72,8 @@ The  [CAD model](./CAD/platform.step)  of the force measurement platform in this
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
 
 ## Parameters in the paper
+
+The results of parameter identification in the paper are shown in following table:
 
 | **Symbol**   | **Value**                                                    | **Name**                             | **Method**              |
 | ------------ | ------------------------------------------------------------ | ------------------------------------ | ----------------------- |
