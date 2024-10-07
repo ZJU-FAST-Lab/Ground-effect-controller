@@ -8,6 +8,9 @@ Ground-Effect-Aware Modeling and Control for Multicopters.
     <img src="./figs/header.jpg" alt="Alt text" style="zoom:30%;" />
 </p>
 
+<p align="center">
+    <img src="./figs/traj.gif" alt="Alt text" style="zoom:80%;" />
+</p>
 
 ## The quadrotor
 
@@ -186,10 +189,6 @@ The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp
 The control algorithm that runs on the onboard computer will be uploaded soon.
 
 
-
-<p align="center">
-    <img src="./figs/traj.gif" alt="Alt text" style="zoom:80%;" />
-</p>
 
 
 
