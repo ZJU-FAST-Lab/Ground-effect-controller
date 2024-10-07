@@ -14,8 +14,6 @@ Video (to be uploaded)
 
 This firmware is included in a [VMware](https://www.vmware.com/) virtual machine environment.
 
-
-
 Downlink:  [Fireware with virtual environment](http://zjufast.tpddns.cn:9110/share.cgi?ssid=cfde8ecbb0b8432fb59c241b98ab59a9)
 
 Downlink:  [Fireware only](http://zjufast.tpddns.cn:9110/share.cgi?ssid=d6dd0e1a97cf43f7a9f5feb82fca04d5)
@@ -74,6 +72,33 @@ The CAD model of  the [quadrotor](./CAD/quadrotor.STEP)  in this paper.
 The  [CAD model](./CAD/platform.step)  of the force measurement platform in this paper.
 
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
+
+## Parameters in the paper
+
+| **Symbol**   | **Value**                                                    | **Name**                             | **Method**              |
+| ------------ | ------------------------------------------------------------ | ------------------------------------ | ----------------------- |
+| **$k_T$**    | $4.0083 \times 10^{-8} \, \text{N/rpm}^2$                    | **Thrust coefficient**               | Single-rotor platform   |
+|              | $3.7840 \times 10^{-8} \, \text{N/rpm}^2$                    |                                      | Quadrotor platform      |
+|              | $4.2958 \times 10^{-8} \, \text{N/rpm}^2$                    |                                      | Real flight by hovering |
+| **$k_{TX}$** | $4.678 \times 10^{-8} \, \text{N/rpm}^2$                     | Torque by thrust coefficient (roll)  | Quadrotor platform      |
+| **$k_{TY}$** | $3.588 \times 10^{-8} \, \text{N/rpm}^2$                     | Torque by thrust coefficient (pitch) |                         |
+| **$k_I$**    | $6.3859 \times 10^{-10} \, \left( \text{N} \cdot \text{m} \right) / \text{rpm}^2$ | Rotor torque coefficient             | Single-rotor platform   |
+| **$J_R$**    | $1.0556 \times 10^{-4} \, \text{kg/m}^2$                     | Rotor inertia                        | Single-rotor platform   |
+| **$g_1$**    | $1.804 \times 10^{-2}$                                       | **Ground effect coefficient**        | Quadrotor platform      |
+| **$g_2$**    | $7.339 \times 10^{-3}$                                       |                                      |                         |
+| **$g_3$**    | $-3.365 \times 10^{-1}$                                      |                                      |                         |
+| **$g_4$**    | $4.126 \times 10^{-2}$                                       |                                      |                         |
+| **$g_5$**    | $6.494 \times 10^{-2}$                                       |                                      |                         |
+| **$c_2$**    | $-1.448471 \times 10^8$                                      | **Throttle curve parameter**         | Quadrotor platform      |
+| **$c_1$**    | $5.228928 \times 10^8$                                       |                                      |                         |
+| **$c_0$**    | $1.033111 \times 10^8$                                       |                                      |                         |
+| **$d_x$**    | $0.3970 \, \text{N/(m/s)}$                                   | **Rotor drag coefficient**           | Real flight             |
+| **$d_y$**    | $0.3300 \, \text{N/(m/s)}$                                   |                                      |                         |
+| **$m$**      | $1.696 \, \text{kg}$                                         | **Mass of the quadrotor**            | Electronic scale        |
+|              | $1.562 \, \text{kg}$                                         |                                      | Mechanical model        |
+| **$I_x$**    | $0.00745220 \, \text{kg/m}^2$                                | **Inertia of the quadrotor**         | Mechanical model        |
+| **$I_y$**    | $0.00792752 \, \text{kg/m}^2$                                |                                      |                         |
+| **$I_z$**    | $0.01249522 \, \text{kg/m}^2$                                |                                      |                         |
 
 ## Control algorithm
 
