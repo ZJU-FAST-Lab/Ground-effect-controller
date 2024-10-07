@@ -16,15 +16,17 @@ Downlink:  [Fireware only](http://zjufast.tpddns.cn:9110/share.cgi?ssid=d6dd0e1a
 
 Password: fastlab@2024
 
-## CAD: The quadrotor
+## The quadrotor
 
-The  [CAD model](./CAD/quadrotor.STEP) of the quadrotor in this paper.
+### CAD model
+
+The CAD model of  the [quadrotor](./CAD/quadrotor.STEP)  in this paper.
 
 
 
 <img src="./figs/quadrotor.PNG" alt="Alt text" style="zoom:30%;" />
 
-### BOM list:
+### BOM list
 
 | **Type**                         | **Name**                                   | **Mass (g)** | **Quantity** | **Gross Mass (g)** |
 | -------------------------------- | ------------------------------------------ | ------------ | ------------ | ------------------ |
@@ -61,13 +63,11 @@ The  [CAD model](./CAD/quadrotor.STEP) of the quadrotor in this paper.
 |                                  | Laser sensor                               | 8.30         | 1            | 8.30               |
 | **Total**                        |                                            |              |              | **1562.70**        |
 
-## CAD: The force measurement platform
+## The force measurement platform
 
-The  [force measurement platform](./CAD/platform.step) of the quadrotor in this paper.
+The  [CAD model](./CAD/platform.step)  of the force measurement platform in this paper.
 
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
-
-
 
 ## Control algorithm
 
