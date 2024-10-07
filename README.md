@@ -142,16 +142,8 @@ t_E = K_P^T T_a^E + K_I^T \sum T_a^E,
 $$**
 
 **$$
-T_a^E = \left( {\sum {{k_T}n{{_i^{des}}^2}}  - \sum {{k_T}{n_i}^2} } \right)/m
+T_a^E = \left( {\sum\limits_i {{k_T}n{{_i^{des}}^2}}  - \sum\limits_i {{k_T}{n_i}^2} } \right)/m
 $$**
-
-
-
-**$$
-\[\sum\limits_i a \]
-$$**
-
-
 
 - **$t_i^{ref}$** is the feedforward throttle obtained by **$n_{esc}^{ - 1}$**, the inverse function of throttol model, 
 - **$t_E$** is the throttle from rotor speed error,
