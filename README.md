@@ -107,9 +107,9 @@ where:
 
 ​      The following figure is the calibration of the (a)thrust and (b)torque model with the single motor platform in the paper.  The static/dynamic modelmeans: without/with a differential term of rotor speed 
 
-**$$
+**$
  \dot{n_i}
-$$**
+$**
 
 
 
