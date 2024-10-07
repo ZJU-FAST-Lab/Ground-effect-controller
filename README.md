@@ -26,7 +26,7 @@ The  [CAD model](./CAD/quadrotor.STEP) of the quadrotor in this paper.
 
 ## CAD: The force measurement platform
 
-The  [force measurement platform](./CAD/platform.STEP) of the quadrotor in this paper.
+The  [force measurement platform](./CAD/platform.step) of the quadrotor in this paper.
 
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
 
