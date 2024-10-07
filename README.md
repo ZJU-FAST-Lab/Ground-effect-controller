@@ -18,7 +18,7 @@ Password: fastlab@2024
 
 
 
-Downlink:  [Fireware only](http://zjufast.tpddns.cn:9110/share.cgi?ssid=cfde8ecbb0b8432fb59c241b98ab59a9)
+Downlink:  [Fireware only](http://zjufast.tpddns.cn:9110/share.cgi?ssid=d6dd0e1a97cf43f7a9f5feb82fca04d5)
 
 Password: fastlab@2024
 
