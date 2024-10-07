@@ -101,7 +101,7 @@ $$
 
 where:
 
-- **$k_T$** is the thrust coefficient,
+- $k_T$ is the thrust coefficient,
 - **$k_I$** is the torque coefficient,
 - **$J_R$** is the moment of inertia of the rotor,
 - **$i$** is the rotor number.
