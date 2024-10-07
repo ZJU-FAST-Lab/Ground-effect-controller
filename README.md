@@ -149,7 +149,7 @@ $$**
 
 
 
-- **$t_i^{ref}$** is the feedforward throttle obtained by **$n_{esc}^{ - 1}$**, the inverse function of AAA, 
+- **$t_i^{ref}$** is the feedforward throttle obtained by **$n_{esc}^{ - 1}$**, the inverse function of throttol model, 
 - **$t_E$** is the throttle from rotor speed error,
 - **$T_a^E$** is the acceleration error by all rotors,
 - **$K_P^T$**, **$K_I^T$** are the parameters of the Proportional-Integral controller.
