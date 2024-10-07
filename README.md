@@ -71,6 +71,16 @@ The  [CAD model](./CAD/platform.step)  of the force measurement platform in this
 
 <img src="./figs/platform.PNG" alt="Alt text" style="zoom:20%;" />
 
+For example, the following [figure](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment:
+
+<img src="./figs/getorque_all_rpmmodel.jpg" alt="Alt text" style="zoom:20%;" />
+
+
+
+
+
+  
+
 ## Parameters in the paper
 
 The results of parameter identification in the paper are shown in following table:
