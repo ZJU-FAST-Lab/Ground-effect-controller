@@ -118,12 +118,18 @@ where:
 
 The rotor speeds are controlled through the throttle input (**$t_i^{des} \in \left[ {0,1} \right]$**), and the rotational speeds are fed back through  [***BDhot***](https://ardupilot.org/copter/docs/common-dshot-escs.html).
 When the flight controller receives a throttle control signal (**${t_c} \in [0,1]$**), the rotor speed will be maintained at a roughly determined value. The relationship between the rotor speed and the throttle, after eliminating the influence of battery voltage, is usually a quadratic function:
-
-
 $$
 n_{esc}(t_c) = c_2 t_c^2 + c_1 t_c + c_0.
 $$
+where
 
+${k_T}$ is the thrust coefficient,
+
+${k_I}$ is the torque coefficient,
+
+${J_R}$ is the moment of inertia of the rotor
+
+and ${i}$ is the rotor number.
 
 
 
