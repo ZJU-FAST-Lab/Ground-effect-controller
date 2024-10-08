@@ -227,5 +227,5 @@ The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp
 
 ## 6. Future work
 
-
+The fluid simulation work is in progress.
 
