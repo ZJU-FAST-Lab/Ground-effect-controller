@@ -24,7 +24,7 @@ Password: fastlab@2024
 The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
 <p align="center">
-    <img src="./figs/quadrotor1.PNG" alt="description" width="500"/>
+    <img src="./figs/quadrotor.PNG" alt="description" width="600"/>
 </p>
 
 
