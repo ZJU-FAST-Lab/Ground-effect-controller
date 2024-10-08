@@ -3,7 +3,7 @@
 Supplementary materials for the paper: Ground-Effect-Aware Modeling and Control for Multicopters.
 
 <p align="center">
-    <img src="./figs/header.PNG" alt="description" width="500"/>
+    <img src="./figs/header.PNG" alt="description" width="400"/>
 </p>
 
 
@@ -83,7 +83,7 @@ For example, the following [***figure***](./figs/getorque_all_rpmmodel.pdf) show
 
 
 <p align="center">
-    <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="800"/>
+    <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="1000"/>
 </p>
 
 ## 3.Motor calibration and rotor speed control
@@ -211,7 +211,7 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
 </p>
 
 <p align="center">
-    <img src="./figs/traj_rmse_plot.png" alt="description" width="800"/>
+    <img src="./figs/traj_rmse_plot.png" alt="description" width="1000"/>
 </p>
 
 
