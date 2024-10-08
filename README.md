@@ -76,15 +76,19 @@ The  [***CAD model***](./CAD/platform.step)  of the force measurement platform i
     <img src="./figs/platform.PNG" alt="description" width="500"/>
 </p>
 
-### 2.2. Platform data
+### 2.2. Platform data: The leveling torque
 
-For example, the following [***figure***](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment. The figure shows the relationship between leveling torque **${{\bf{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
+The following [***figure***](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment. The figure shows the relationship between leveling torque **${{\bf{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
 
 
 
 <p align="center">
     <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="1000"/>
 </p>
+
+### 2.3. Platform data: ROS bags and processing
+
+To be uploaded.
 
 ## 3. Motor calibration and rotor speed control
 
@@ -207,10 +211,6 @@ The following table shows the Spearman's rank correlation coefficient between va
 
 The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
 
-The control algorithm that runs on the onboard computer will be uploaded soon.
-
-
-
 <p align="center">
     <img src="./figs/traj.gif" alt="description" width="700"/>
 </p>	
@@ -225,5 +225,7 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
 
 
 
+## 6. Future work
 
+We will publish our work on fluid simulation on near-ground flight of multicopters.
 
