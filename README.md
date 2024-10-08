@@ -1,6 +1,6 @@
 # Ground-effect-controller
 
-Supplementary materials for the paper: Ground-Effect-Aware Modeling and Control for Multicopters.
+The supplementary material for the paper: Ground-Effect-Aware Modeling and Control for Multicopters.
 
 <p align="center">
     <img src="./figs/header.PNG" alt="description" width="400"/>
