@@ -191,14 +191,14 @@ The results of parameter identification in the paper are shown in following tabl
 
 The following table shows the Spearman's rank correlation coefficient between variables.
 
-| **Spearman's rank correlation coefficient between variables** | ${{\bf{x}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{z}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}/\sin \delta$ | ${{\bf{f}}_{\bf{G}}}$ |
-| ------------------------------------------------------------ | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------------------- | --------------------- |
-| ${\bf{N}_{base}}\left( 1 \right)$                            | -                                     | -                                     | $\uparrow -0.6640$                    | -                                                 | $\uparrow +0.4703$    |
-| ${\bf{N}_{base}}\left( 2 \right)$                            | $\uparrow +0.8245$                    | -                                     | -                                     | -                                                 | -                     |
-| ${\bf{N}_{base}}\left( 3 \right)$                            | -                                     | -                                     | -                                     | -                                                 | -                     |
-| ${\bf{N}_{base}}\left( 4 \right)$                            | -                                     | $\uparrow +0.9251$                    | -                                     | -                                                 | -                     |
-| $h$                                                          | $\downarrow +0.0284$                  | $\downarrow +0.1781$                  | $\uparrow +0.3384$                    | -                                                 | $\uparrow -0.5465$    |
-| $\delta$                                                     | -                                     | -                                     | -                                     | $\downarrow +0.0930$                              | $\downarrow +0.0054$  |
+| **Spearman coefficient**          | ${{\bf{x}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{z}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}/\sin \delta$ | ${{\bf{f}}_{\bf{G}}}$ |
+| --------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------------------- | --------------------- |
+| ${\bf{N}_{base}}\left( 1 \right)$ | -                                     | -                                     | $\uparrow -0.6640$                    | -                                                 | $\uparrow +0.4703$    |
+| ${\bf{N}_{base}}\left( 2 \right)$ | $\uparrow +0.8245$                    | -                                     | -                                     | -                                                 | -                     |
+| ${\bf{N}_{base}}\left( 3 \right)$ | -                                     | -                                     | -                                     | -                                                 | -                     |
+| ${\bf{N}_{base}}\left( 4 \right)$ | -                                     | $\uparrow +0.9251$                    | -                                     | -                                                 | -                     |
+| $h$                               | $\downarrow +0.0284$                  | $\downarrow +0.1781$                  | $\uparrow +0.3384$                    | -                                                 | $\uparrow -0.5465$    |
+| $\delta$                          | -                                     | -                                     | -                                     | $\downarrow +0.0930$                              | $\downarrow +0.0054$  |
 
 ## 5.Control algorithm
 
