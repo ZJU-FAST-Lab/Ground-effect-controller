@@ -182,6 +182,17 @@ The results of parameter identification in the paper are shown in following tabl
 | **$I_y$**    | $0.00792752 \, \text{kg/m}^2$                                |                                      |                         |
 | **$I_z$**    | $0.01249522 \, \text{kg/m}^2$                                |                                      |                         |
 
+The following table shows the Spearman's rank correlation coefficient between variables.
+
+| **Spearman's rank correlation coefficient between variables** | ${{\bm{x}}_W}^ \top {{\bm{\tau }}_B}$          | ${{\bm{z}}_W}^ \top {{\bm{\tau }}_B}$          | ${{\bm{y}}_W}^ \top {{\bm{\tau }}_G}$      | ${{\bm{y}}_W}^ \top {{\bm{\tau }}_G}/\sin \delta$ | ${{\bm{f}}_{\bm{G}}}$                            |
+| ------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------ |
+| ${\bm{N}_{base}}\left( 1 \right)$                            | -                                              | -                                              | $\uparrow -0.6640^{\ref{subsec:getorque}}$ | -                                                 | $\uparrow +0.4703^{\ref{subsec:rotors_force}}$   |
+| ${\bm{N}_{base}}\left( 2 \right)$                            | $\uparrow +0.8245^{\ref{subsec:bodytorque}}$   | -                                              | -                                          | -                                                 | -                                                |
+| ${\bm{N}_{base}}\left( 3 \right)$                            | -                                              | -                                              | -                                          | -                                                 | -                                                |
+| ${\bm{N}_{base}}\left( 4 \right)$                            | -                                              | $\uparrow +0.9251^{\ref{subsec:bodytorque}}$   | -                                          | -                                                 | -                                                |
+| $h$                                                          | $\downarrow +0.0284^{\ref{subsec:bodytorque}}$ | $\downarrow +0.1781^{\ref{subsec:bodytorque}}$ | $\uparrow +0.3384^{\ref{subsec:getorque}}$ | -                                                 | $\uparrow -0.5465^{\ref{subsec:rotors_force}}$   |
+| $\delta$                                                     | -                                              | -                                              | -                                          | $\downarrow +0.0930^{\ref{subsec:getorque}}$      | $\downarrow +0.0054^{\ref{subsec:rotors_force}}$ |
+
 ## Control algorithm
 
 The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
