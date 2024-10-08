@@ -211,12 +211,14 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
 </p>
 
 <p align="center">
-    <img src="./figs/traj_rmse_plot.png" alt="description" width="1000"/>
+    <img src="./figs/traj_rmse_plot_legend.png" alt="description" width="800"/>
 </p>
 
 <p align="center">
-    <img src="./figs/traj_rmse_plot_legend.png" alt="description" width="1000"/>
+    <img src="./figs/traj_rmse_plot.png" alt="description" width="1000"/>
 </p>
+
+
 
 
 
