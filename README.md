@@ -208,7 +208,9 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
     <img src="./figs/traj.gif" alt="Alt text" style="zoom:80%;" />
 </p>
 
-<img src="./figs/traj_rmse_plot.jpg" alt="Alt text" style="zoom:40%;" />
+<p align="center">
+    <img src="./figs/traj_rmse_plot.jpg" alt="description" width="300"/>
+</p>
 
 
 
