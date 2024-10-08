@@ -191,8 +191,8 @@ The results of parameter identification in the paper are shown in following tabl
 
 The following table shows the Spearman's rank correlation coefficient between variables.
 
-- **$\uparrow $** : Strong correlation
-- **$\downarrow$** : Weak correlation 
+- **$\uparrow $** : Strong correlation;
+- **$\downarrow$** : Weak correlation.
 
 | **Spearman coefficient**          | ${{\bf{x}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{z}}_W}^ \top {{\bf{\tau }}_B}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}$ | ${{\bf{y}}_W}^ \top {{\bf{\tau }}_G}/\sin \delta$ | ${{\bf{f}}_{\bf{G}}}$ |
 | --------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------------------- | --------------------- |
