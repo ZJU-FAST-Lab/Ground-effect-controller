@@ -211,7 +211,7 @@ The control algorithm that runs on the onboard computer will be uploaded soon.
 </p>
 
 <p align="center">
-    <img src="./figs/traj_rmse_plot.jpg" alt="description" width="800"/>
+    <img src="./figs/traj_rmse_plot.png" alt="description" width="800"/>
 </p>
 
 
