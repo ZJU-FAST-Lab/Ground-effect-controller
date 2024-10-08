@@ -153,7 +153,9 @@ $$**
 - **$T_a^E$** is the acceleration error by all rotors,
 - **$K_P^T$**, **$K_I^T$** are the parameters of the Proportional-Integral controller.
 
-## Parameters in the paper
+## Parameters
+
+### Parameter calibration
 
 The results of parameter identification in the paper are shown in following table:
 
@@ -181,6 +183,8 @@ The results of parameter identification in the paper are shown in following tabl
 | **$I_x$**    | $0.00745220 \, \text{kg/m}^2$                                | Inertia of the quadrotor             | Mechanical model        |
 | **$I_y$**    | $0.00792752 \, \text{kg/m}^2$                                |                                      |                         |
 | **$I_z$**    | $0.01249522 \, \text{kg/m}^2$                                |                                      |                         |
+
+### Spearman's rank correlation
 
 The following table shows the Spearman's rank correlation coefficient between variables.
 
