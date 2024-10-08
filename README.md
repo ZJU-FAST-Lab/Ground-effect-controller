@@ -2,13 +2,9 @@
 
 Supplementary materials for the paper: Ground-Effect-Aware Modeling and Control for Multicopters.
 
-
-
 <p align="center">
-    <img src="./figs/header.PNG" alt="Alt text" style="zoom:30%;" />
+    <img src="./figs/header.PNG" alt="description" width="500"/>
 </p>
-
-
 
 
 ## 1.The quadrotor
@@ -27,9 +23,11 @@ Password: fastlab@2024
 
 The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
+<p align="center">
+    <img src="./figs/quadrotor.PNG" alt="description" width="500"/>
+</p>
 
 
-<img src="./figs/quadrotor.PNG" alt="Alt text" style="zoom:35%;" />
 
 ### 1.3.BOM list
 
@@ -82,7 +80,9 @@ For example, the following [***figure***](./figs/getorque_all_rpmmodel.pdf) show
 
 
 
-<img src="./figs/getorque_all_rpmmodel.PNG" alt="Alt text" style="zoom:35%;" />
+<p align="center">
+    <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="500"/>
+</p>
 
 ## 3.Motor calibration and rotor speed control
 
