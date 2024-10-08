@@ -206,11 +206,11 @@ The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp
 
 The control algorithm that runs on the onboard computer will be uploaded soon.
 
+
+
 <p align="center">
-    <img src="./figs/traj.gif" alt="Alt text" style="zoom:80%;" />
+    <img src="./figs/traj.gif" alt="description" width="800"/>
 </p>
-
-
 
 <p align="center">
     <img src="./figs/traj_rmse_plot.png" alt="description" width="1000"/>
