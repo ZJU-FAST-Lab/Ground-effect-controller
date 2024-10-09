@@ -2,13 +2,15 @@
 
 Supplementary material for the paper: Ground-Effect-Aware Modeling and Control for Multicopters.
 
-<p align="center">
-    <img src="./figs/traj.gif" alt="description" width="700"/>
-</p>	
+
 
 <p align="center">
     <img src="./figs/header.PNG" alt="description" width="400"/>
 </p>
+<p align="center">
+    <img src="./figs/traj.gif" alt="description" width="700"/>
+</p>	
+
 
 
 ## 1. The quadrotor
