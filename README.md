@@ -8,8 +8,9 @@
     <img src="./figs/header.PNG" alt="description" width="400"/>
 </p>
 <p align="center">
-    <img src="./figs/traj.gif" alt="description" width="700"/>
+    <img src="./figs/traj.gif" alt="description" width="600"/>
 </p>	
+
 
 
 
@@ -30,8 +31,9 @@ Password: fastlab@2024
 The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
 <p align="center">
-    <img src="./figs/quadrotor1.PNG" alt="description" width="800"/>
+    <img src="./figs/quadrotor1.PNG" alt="description" width="600"/>
 </p>
+
 
 
 
