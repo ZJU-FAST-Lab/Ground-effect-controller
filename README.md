@@ -74,9 +74,15 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 |                                  | Laser sensor                               | 8.30         | 1            | 8.30               |
 | **Total**                        |                                            |              |              | **1562.70**        |
 
-## 2. The force measurement platform
+## 2. Platforms for model validation
 
-### 2.1. CAD model
+### 2.1.The single rotor platform
+
+#### 
+
+### 2.2.The quadrotor platform
+
+#### 2.2.1 CAD model
 
 The  [***CAD model***](./CAD/platform.step)  of the force measurement platform in this paper.
 
@@ -89,7 +95,7 @@ The  [***CAD model***](./CAD/platform.step)  of the force measurement platform i
 </p>
 
 
-### 2.2. Platform data: The leveling torque
+#### 2.2.1.Platform data: The leveling torque
 
 The following [***figure***](./figs/getorque_all_rpmmodel.pdf) shows the data in the leveling torque experiment. The figure shows the relationship between leveling torque **${{\bf{\tau }}_G}$** and average rotor speed **$\left\| {{n_i}} \right\|$**. The black points are sensor data and the blue lines are model-fitting results.
 
@@ -99,7 +105,7 @@ The following [***figure***](./figs/getorque_all_rpmmodel.pdf) shows the data in
     <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="1000"/>
 </p>
 
-### 2.3. Platform data: ROS bags and processing
+### 2.3.Platform data: ROS bags and processing
 
 To be uploaded.
 
@@ -235,8 +241,6 @@ The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp
 <p align="center">
     <img src="./figs/traj_rmse_plot_legend.PNG" alt="description" width="1000"/>
 </p>
-
-
 
 ## 6. Future work
 
