@@ -12,6 +12,15 @@
 </p>	
 
 
+## Table of Contents
+
+1. [The quadrotor](#The quadrotor)
+2. [Methods of model validation](#Methods of model validation)
+3. [Motor calibration and rotor speed control](#Motor calibration and rotor speed control)
+4. [Parameters](#Parameters)
+4. [Control algorithm](#Control algorithm)
+4. [Future work](#Future work)
+
 
 
 ## 1. The quadrotor
