@@ -12,18 +12,15 @@
 </p>	
 
 
-## Table of Contents
-
-1. [The quadrotor](#The quadrotor)
-2. [Methods of model validation](#Methods of model validation)
-3. [Motor calibration and rotor speed control](#Motor calibration and rotor speed control)
-4. [Parameters](#Parameters)
-4. [Control algorithm](#Control algorithm)
-4. [Future work](#Future work)
-
-
-
 ## 1. The quadrotor
+
+Flight controller: [***CUAV V5***](https://doc.cuav.net/flight-controller/v5-autopilot/en/v5+.html)
+
+Laser sensor: [***Laser***](\url{https://www.nooploop.com/tofsense-m/)
+
+Onboard computer: [***Intel NUC***](\url{https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
+
+Motion capture system: [***NOKOV***](\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
 
 ### 1.1. Firmware for the flight controller 
 
