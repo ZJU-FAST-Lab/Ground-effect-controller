@@ -14,13 +14,7 @@
 
 ## 1. The quadrotor
 
-Flight controller: [***CUAV V5***](https://doc.cuav.net/flight-controller/v5-autopilot/en/v5+.html)
-
-Laser sensor: [***Laser***](\url{https://www.nooploop.com/tofsense-m/)
-
-Onboard computer: [***Intel NUC***](\url{https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
-
-Motion capture system: [***NOKOV***](\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
+\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
 
 ### 1.1. Firmware for the flight controller 
 
@@ -32,7 +26,17 @@ Downlink:  [***Fireware***](http://zjufast.tpddns.cn:9110/share.cgi?ssid=d6dd0e1
 
 Password: fastlab@2024
 
-### 1.2. CAD model
+### 1.2. Devices
+
+Flight controller: [***CUAV V5***](https://doc.cuav.net/flight-controller/v5-autopilot/en/v5+.html)
+
+Laser sensor: [***Laser***](\url{https://www.nooploop.com/tofsense-m/)
+
+Onboard computer: [***Intel NUC***](\url{https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
+
+Motion capture system: [***NOKOV***](
+
+### 1.3. CAD model
 
 The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
