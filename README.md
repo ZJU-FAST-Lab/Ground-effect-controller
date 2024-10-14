@@ -30,11 +30,11 @@ Password: fastlab@2024
 
 Flight controller: [***CUAV V5***](https://doc.cuav.net/flight-controller/v5-autopilot/en/v5+.html)
 
-Laser sensor: [***Laser***](\url{https://www.nooploop.com/tofsense-m/)
+Laser sensor: [***Laser***](https://www.nooploop.com/tofsense-m/)
 
-Onboard computer: [***Intel NUC***](\url{https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
+Onboard computer: [***Intel NUC***](https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
 
-Motion capture system: [***NOKOV***](\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
+Motion capture system: [***NOKOV***](https://en.nokov.com/products/motion-capture-cameras/Mars.html)
 
 ### 1.3. CAD model
 
