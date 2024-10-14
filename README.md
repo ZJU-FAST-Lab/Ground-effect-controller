@@ -80,6 +80,10 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
 #### 
 
+<p align="center">
+    <img src="./figs/singlerotor.png" alt="description" width="200"/>
+</p>
+
 ### 2.2.The quadrotor platform
 
 #### 2.2.1 CAD model
