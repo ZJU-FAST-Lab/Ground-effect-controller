@@ -81,7 +81,7 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 #### 
 
 <p align="center">
-    <img src="./figs/singlerotor.png" alt="description" width="200"/>
+    <img src="./figs/singlerotor.png" alt="description" width="250"/>
 </p>
 
 ### 2.2.The quadrotor platform
@@ -91,12 +91,13 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 The  [***CAD model***](./CAD/platform.step)  of the force measurement platform in this paper.
 
 <p align="center">
-    <img src="./figs/platform.PNG" alt="description" width="600"/>
+    <img src="./figs/platform.PNG" alt="description" width="500"/>
 </p>
 
 <p align="center">
-    <img src="./figs/platform_real.PNG" alt="description" width="600"/>
+    <img src="./figs/platform_real.PNG" alt="description" width="700"/>
 </p>
+
 
 
 #### 2.2.1.Platform data: The leveling torque
