@@ -10,8 +10,7 @@
 <p align="center">
     <img src="./figs/traj.gif" alt="description" width="600"/>
 </p>	
-<!-- TOC -->
-<!-- /TOC -->
+
 
 
 
