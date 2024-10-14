@@ -14,7 +14,7 @@
 
 ## 1. The quadrotor
 
-\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
+
 
 ### 1.1. Firmware for the flight controller 
 
@@ -34,7 +34,7 @@ Laser sensor: [***Laser***](\url{https://www.nooploop.com/tofsense-m/)
 
 Onboard computer: [***Intel NUC***](\url{https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
 
-Motion capture system: [***NOKOV***](
+Motion capture system: [***NOKOV***](\url{https://en.nokov.com/products/motion-capture-cameras/Mars.html)
 
 ### 1.3. CAD model
 
