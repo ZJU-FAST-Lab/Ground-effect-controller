@@ -30,7 +30,7 @@ Password: fastlab@2024
 
 Flight controller: [***CUAV V5***](https://doc.cuav.net/flight-controller/v5-autopilot/en/v5+.html)
 
-Laser sensor: [***Laser***](https://www.nooploop.com/tofsense-m/)
+Lattice laser sensor: [***Laser***](https://www.nooploop.com/tofsense-m/)
 
 Onboard computer: [***Intel NUC***](https://www.intel.com/content/www/us/en/products/sku/205603/intel-nuc-11-pro-kit-nuc11tnki5/specifications.html)
 
