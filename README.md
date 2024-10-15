@@ -47,7 +47,7 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 
 
 
-### 1.3. BOM list
+### 1.4. BOM list
 
 | **Type**                         | **Name**                                   | **Mass (g)** | **Quantity** | **Gross Mass (g)** |
 | -------------------------------- | ------------------------------------------ | ------------ | ------------ | ------------------ |
