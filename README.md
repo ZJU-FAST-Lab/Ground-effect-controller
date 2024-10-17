@@ -93,6 +93,12 @@ The  [***CAD model***](./CAD/platform.step)  of the force measurement platform i
 <p align="center">
     <img src="./figs/platform.PNG" alt="description" width="500"/>
 </p>
+<p align="center">
+    <img src="./figs/platform.gif" alt="description" width="600"/>
+</p>
+
+
+
 
 <p align="center">
     <img src="./figs/platform_real.PNG" alt="description" width="700"/>
