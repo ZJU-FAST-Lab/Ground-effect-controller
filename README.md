@@ -12,7 +12,9 @@
 </p>	
 
 
-The detailed  [***data***](./figs/traj_rmse_plot.pdf)  in the above video is in the Part.5. Control algorithm.
+The detailed  [***data***](./figs/traj_rmse_plot.pdf)  in the above video is in the [Part.5. Control algorithm.
+
+The detailed  [***Part5***](##5. Control algorithm)  in the above video is in the [Part.5. Control algorithm.
 
 
 
