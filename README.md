@@ -109,9 +109,13 @@ The following [***figure***](./figs/getorque_all_rpmmodel.pdf) shows the data in
 <p align="center">
     <img src="./figs/getorque_all_rpmmodel.PNG" alt="description" width="1000"/>
 </p>
+
+
 ### 2.3. Platform data: ROS bags and processing
 
 To be uploaded.
+
+
 
 ## 3. Motor calibration and rotor speed control
 
