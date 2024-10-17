@@ -10,7 +10,7 @@
 <p align="center">
     <img src="./figs/traj.gif" alt="description" width="600"/>
 </p>	
-The detailed data in the above video is in the [Part.5. Control algorithm](#5.-Control-algorithm)
+The detailed data in the above video is in the [Part.5. Control algorithm](#Control)
 
 
 
@@ -246,7 +246,7 @@ The following table shows the Spearman's rank correlation coefficient between va
 | $h$                               | $\downarrow +0.0284$                  | $\downarrow +0.1781$                  | $\uparrow +0.3384$                    | -                                                 | $\uparrow -0.5465$    |
 | $\delta$                          | -                                     | -                                     | -                                     | $\downarrow +0.0930$                              | $\downarrow +0.0054$  |
 
-## 5. Control algorithm
+## Control
 
 The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
 
