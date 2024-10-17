@@ -14,6 +14,10 @@ The detailed  [***data***](./figs/traj_rmse_plot.pdf)  in the above video is in 
 
 
 
+The  following [***figure***](./figs/traj_rmse_plot.pdf) shows the curves of Exp.~7($3m/s$, near-ground) in the paper. Every loop is well-controlled, including the rotor speed, thrust acceleration, body torque, etc.
+
+
+
 
 
 ## 1. The quadrotor
