@@ -10,7 +10,7 @@
 <p align="center">
     <img src="./figs/traj.gif" alt="description" width="600"/>
 </p>	
-The detailed data in the above video is in the [Part.5. Control algorithm](##5. Control-algorithm)
+The detailed data in the above video is in the [Part.5. Control algorithm](##5.-Control-algorithm)
 
 ## 1. The quadrotor
 
