@@ -45,7 +45,9 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 </p>
 
 
-
+<p align="center">
+    <img src="./figs/quadrotor_real.PNG" alt="description" width="600"/>
+</p>
 
 ### 1.4. BOM list
 
