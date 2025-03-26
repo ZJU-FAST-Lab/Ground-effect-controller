@@ -93,12 +93,7 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 | **Total**                        |                                            |              |              | **1562.70**        |
 
 
-| Symbol                  | Name                    | Value                                            |
-|-------------------------|-------------------------|--------------------------------------------------|
-| **$$\mathbf{K}^P$$**          | Position control gain   | **$$(3.0, 3.0, 3.0)$$**                               |
-| **$$\mathbf{K}^V$$**          | Velocity control gain   | **$$(2.5, 2.5, 2.5)$$**                               |
-| **$$\mathbf{K}^{\xi}$$**      | Angle control gain      | **$$(6.0, 6.0, 2.0)$$**                               |
-| **$$\mathbf{K}^{\omega}$   | Body rate control gain  | **$$(15.0, 15.0, 16.0)$$**                            |
+
 
 ## 2. The quadrotor platform for model validation
 
@@ -211,7 +206,7 @@ $$**
 
 ## 4. Parameters
 
-### 4.1. Parameter calibration
+### 4.1. Model and Control Gain Parameters
 
 The results of parameter identification in the paper are shown in following table:
 
@@ -239,6 +234,15 @@ The results of parameter identification in the paper are shown in following tabl
 | **$I_x$**    | $0.00745220 \, \text{kg/m}^2$                                | Inertia of the quadrotor             | Mechanical model        |
 | **$I_y$**    | $0.00792752 \, \text{kg/m}^2$                                |                                      |                         |
 | **$I_z$**    | $0.01249522 \, \text{kg/m}^2$                                |                                      |                         |
+
+The control gain parameters in the paper are shown in following table:
+
+| Symbol                  | Name                    | Value                                            |
+|-------------------------|-------------------------|--------------------------------------------------|
+| **$$\mathbf{K}^P$$**          | Position control gain   | **$$(3.0, 3.0, 3.0)$$**                               |
+| **$$\mathbf{K}^V$$**          | Velocity control gain   | **$$(2.5, 2.5, 2.5)$$**                               |
+| **$$\mathbf{K}^{\xi}$$**      | Angle control gain      | **$$(6.0, 6.0, 2.0)$$**                               |
+| **$$\mathbf{K}^{\omega}$$**   | Body rate control gain  | **$$(15.0, 15.0, 16.0)$$**                            |
 
 ### 4.2. Spearman's rank correlation
 
