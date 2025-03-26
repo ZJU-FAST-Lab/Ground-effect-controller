@@ -92,6 +92,14 @@ The [***CAD model***](./CAD/quadrotor.STEP) of  the  quadrotor in this paper.
 |                                  | Laser sensor                               | 8.30         | 1            | 8.30               |
 | **Total**                        |                                            |              |              | **1562.70**        |
 
+
+| Symbol                  | Name                    | Value                                            |
+|-------------------------|-------------------------|--------------------------------------------------|
+| **$$\mathbf{K}^P$$**          | Position control gain   | **$$(3.0, 3.0, 3.0)$$**                               |
+| **$$\mathbf{K}^V$$**          | Velocity control gain   | **$$(2.5, 2.5, 2.5)$$**                               |
+| **$$\mathbf{K}^{\xi}$$**      | Angle control gain      | **$$(6.0, 6.0, 2.0)$$**                               |
+| **$$\mathbf{K}^{\omega}$   | Body rate control gain  | **$$(15.0, 15.0, 16.0)$$**                            |
+
 ## 2. The quadrotor platform for model validation
 
 ### 2.1. CAD model
